@@ -1,0 +1,14 @@
+.App {
+  display: flex;               /* Enable flexbox */
+  flex-direction: column;      /* Arrange items in a column */
+  align-items: center;         /* Center items horizontally */
+  justify-content: center;     /* Center items vertically */             /* Full viewport height */
+  text-align: center;          /* Center text */
+  background-color: rgb(0, 70, 0);
+  font-family: Trebuchet MS;;
+}
+
+.logo{
+  height: 50%;
+  width: 50%;
+}
